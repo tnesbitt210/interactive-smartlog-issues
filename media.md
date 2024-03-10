@@ -12,3 +12,5 @@
 
 <img width="565" alt="commit-view" src="https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/44f88408-88de-40ff-b44b-55eced545818">
 <img width="347" alt="Screenshot 2024-02-20 at 4 31 28 PM" src="https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/4ea46e3f-5da4-481e-aebe-768d7ba7ce81">
+
+![branching](https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/a43a250e-eac5-479e-8944-0c01d4d6e5b9)
