@@ -1,6 +1,9 @@
 
 <img width="689" alt="main" src="https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/3d37b1b6-898b-4aa2-baf8-e8b80c75f574">
 
+<img width="1163" alt="Screenshot 2024-03-10 at 11 02 14 AM" src="https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/e996d8a3-bfc6-4abc-9ec3-e484a099e705">
+
+
 ![branches](https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/fa35887a-3976-47eb-a0dd-322a816b1a29)
 ![files](https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/397e2754-c8ee-4355-867b-876c4bd9ff2d)
 ![Rebase](https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/9e9184ba-2448-4399-a990-c43bf7e270c3)
