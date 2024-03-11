@@ -14,3 +14,6 @@
 <img width="347" alt="Screenshot 2024-02-20 at 4 31 28 PM" src="https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/4ea46e3f-5da4-481e-aebe-768d7ba7ce81">
 
 ![branching](https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/a43a250e-eac5-479e-8944-0c01d4d6e5b9)
+<img width="755" alt="Screenshot 2024-03-10 at 9 22 20 PM" src="https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/2c83c335-20ef-4423-b367-3276f8c7c9be">
+
+
