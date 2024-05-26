@@ -23,3 +23,7 @@
 ![commit-flow-120](https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/6a828333-c817-4486-a364-10acc7ddfc66)
 ![commit-flow-110](https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/dd27ee40-34ef-45a6-a0d8-21a9fe6e3d6e)
 ![commit-flow-100](https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/93d51fbe-d21a-4e29-a959-a4ecf30cea5d)
+![commit-flow-90](https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/5266a376-6074-4e8c-a263-71420c8b6df1)
+![commit-flow-80](https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/cabe66ac-54bb-406f-83df-b54eff5378b6)
+![commit-flow-70](https://github.com/tnesbitt210/interactive-smartlog-issues/assets/10647853/4eb11eb8-5156-47ac-a87f-086d68c5922e)
+
